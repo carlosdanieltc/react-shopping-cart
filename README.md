@@ -1,3 +1,12 @@
+# Shopping Cart
+
+Proyecto realizado para la práctica de React. Curso Midudev 2023.
+
+https://carlosdanieltc.github.io/react-shopping-cart/
+
+![image](https://github.com/carlosdanieltc/react-shopping-cart/assets/64924319/f35b5138-78bf-42eb-b287-51f2951cf0f3)
+
+
 # Enunciado
 
 Ecommerce
